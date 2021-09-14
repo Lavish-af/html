@@ -1,6 +1,7 @@
 To view this unstyled markup visit [http://mrmrs.io/html](http://mrmrs.io/html)
 
 # HTML
+- lavish singh says that this html is amazing.
 
 Common markup patterns I use for developing websites.
 
